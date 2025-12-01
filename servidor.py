@@ -56,6 +56,4 @@ while True:
         #Fill in end
 
     serverSocket.close()
-    sys.exit()  # Encerra o programa
-
-#http://localhost:8080/index.html
+    sys.exit()  # Encerra o programa-
